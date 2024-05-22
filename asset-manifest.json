@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TexYze/static/css/main.31d6cfe0.css",
+    "main.js": "/TexYze/static/js/main.43427760.js",
+    "static/js/453.ed3810f9.chunk.js": "/TexYze/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/TexYze/index.html",
+    "main.43427760.js.map": "/TexYze/static/js/main.43427760.js.map",
+    "453.ed3810f9.chunk.js.map": "/TexYze/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.43427760.js"
+  ]
+}
