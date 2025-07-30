@@ -11,7 +11,7 @@ export default function Textform(props) {
     let currText = text.toUpperCase();
     setText(currText);
     props.showAlert("Converted to uppercase!", "success");
-  };
+  // };
   const handleClickl = () => {
     let currText = text.toLowerCase();
     setText(currText);
